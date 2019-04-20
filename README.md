@@ -1,7 +1,6 @@
 # data-structures
 
-Project created to add Algorithms specific to various data structures.
-This is created to act as a one stop shop for data structures and algorithm solution and practise.
+Project created to add implementations for various data structures like queues ( simple/ dynamic circular array implementations) , linked lists ( circular , singly , doubly ) etc.
 
 Current Content 
 # queues
@@ -38,3 +37,7 @@ Current Content
 
 # Recursions
     -> Reversing a String using recursive method
+
+# Backtracking
+    -> Rat in a maze problem
+    -> String pattern matcher without using Regex
